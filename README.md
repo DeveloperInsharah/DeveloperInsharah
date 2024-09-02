@@ -1,9 +1,8 @@
-![logo](![image](https://github.com/user-attachments/assets/57feb1d3-d74c-4355-abe1-7735b5bbdd2c)
-)
+
 <h1 align="center">Hi 👋, I'm Developer Insharah</h1>
 <h3 align="center">I am a professional frontened Developer.</h3>
 
-<img width="400" align="right" href="![image](https://github.com/user-attachments/assets/d5b9876c-58e0-43f8-a6bb-3f6b1bf86b9f)">
+<img width="400" align="right" href="https://github.com/user-attachments/assets/d5b9876c-58e0-43f8-a6bb-3f6b1bf86b9f">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerinsharah&label=Profile%20views&color=0e75b6&style=flat" alt="developerinsharah" /> </p>
 
 - 🔭 I’m currently Learning **Bootstrap**
