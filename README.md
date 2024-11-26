@@ -1,10 +1,10 @@
 
-<img src="banner.gif" alt="banner">
+<img src="banner.gif" alt="banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm Developer Insharah</h1>
 <h3 align="center">I am a professional frontened Developer From Pakistan.</h3>
 
-<p align="center"> <img src="girl.jpeg" alt="animated-coding" /> </p>
+<p align="center"> <img src="girl.jpeg" alt="animated-coding" width="100%"> </p>
 
 <img width="400" align="right" href="https://github.com/user-attachments/assets/d5b9876c-58e0-43f8-a6bb-3f6b1bf86b9f">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerinsharah&label=Profile%20views&color=0e75b6&style=flat" alt="developerinsharah" /> </p>
